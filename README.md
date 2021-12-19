@@ -1,4 +1,4 @@
-# buy-sell
+# buy-sell by LDR Tabaldyev
 
 ## Project setup
 ```
