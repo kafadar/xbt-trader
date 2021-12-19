@@ -1,4 +1,4 @@
-# buy-sell by LDR Tabaldyev
+# XBT_TRADER by LDR Tabaldyev
 
 ## Project setup
 ```
